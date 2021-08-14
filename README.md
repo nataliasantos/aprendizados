@@ -16,8 +16,9 @@
 * [ ] Para que serve `git add`
 
 ## JavaScript
-* [x] Como declarar uma variável no JavaScript com `var`
-* [ ] Como declarar uma variável no JavaScript com `let`
-* [ ] Como declarar uma variável no JavaScript com `const` 
-* [ ] O que é uma variável do tipo `string`
-* [ ] O que é uma variável do tipo `number` 
+* [x] [Como declarar uma variável no JavaScript](https://github.com/nataliasantos/aprendizados/issues/1) com `var`
+* [x] [Como declarar uma variável no JavaScript](https://github.com/nataliasantos/aprendizados/issues/1) com `let`
+* [x] [Como declarar uma variável no JavaScript](https://github.com/nataliasantos/aprendizados/issues/1) com `const` 
+* [x] Como declarar uma variável no JavaScript do tipo array
+* [x] O que é uma variável do tipo `string`
+* [x] O que é uma variável do tipo `number` 
