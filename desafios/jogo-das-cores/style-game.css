@@ -17,4 +17,13 @@
     background-color: #fb00ff;
     border-radius: 12px;
     box-shadow: inset 10px 10px 0 rgb(255 255 255 / 50%), 10px 10px 0 rgb(0 0 0 / 25%);
+    cursor: pointer;
+}
+
+.board__item:hover {
+    transform: scale(1.05);
+}
+
+.board__item:active {
+    filter: brightness(1.5);
 }
